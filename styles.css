@@ -111,7 +111,7 @@ footer {
 
 .circle-icon:hover,
 .circle-icon:focus {
-  border: 2px solid var(--soft-magenta);
+  border: 1px solid var(--soft-magenta);
   color: var(--soft-magenta);
 }
 

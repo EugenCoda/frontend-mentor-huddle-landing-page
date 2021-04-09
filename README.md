@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-huddle-landing-page)
-- Live Site URL: [Huddle Landing Page](https://your-live-site-url.com)
+- Live Site URL: [Huddle Landing Page](https://huddle-landing-page-frontend-challenge.netlify.app/)
 
 ## My process
 
